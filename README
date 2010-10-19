@@ -1,1 +1,18 @@
-A set of tools and libaries for generating documents and reports in C#/.NET. Comprised of core libraries, XML templates and sample applications. Supports output in HTML, PDF, XML and LaTeX.
+A console based SQL Administration tool that allows databases, tables and queries to be manipulated across multiple database vendors.
+
+===Features===
+ - viewing, creating and manipulating schemas.
+ - automating queries, reports and operations through macros.
+ - automatic translation of sql to native vendor specific sql.
+ - query output to several formats such as CSV, email, screen, print, etc.
+ - table structure caching
+ 
+===Common Commands:===
+show tables		- Returns a list of tables in the current database
+servers			- Returns a list of servers/connections in the saved list
+query			- Switches to query mode
+execute			- Executes an in-line query
+macro			- Switches to macro creation mode
+connect			- Connect to a database
+set				- Set a variable
+

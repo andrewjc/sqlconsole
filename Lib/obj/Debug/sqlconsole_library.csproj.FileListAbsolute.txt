@@ -1,0 +1,9 @@
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\GenerateResource.read.1.tlog
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\GenerateResource.write.1.tlog
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\SQLConsole.Data.Properties.Resources.resources
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\SQLConsole.Data.WaitForm.resources
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\bin\Debug\SQLConsole.Data.dll
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\bin\Debug\SQLConsole.Data.pdb
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\SQLConsole.Data.dll
+C:\My Stuff\Codebase\ODB\sqlconsole\Lib\obj\Debug\SQLConsole.Data.pdb
